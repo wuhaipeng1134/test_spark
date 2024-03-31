@@ -1,0 +1,10 @@
+CCCCCCCCCCCCCCCCCC
+hello world hello hadoop
+hadoop hello world hive
+hive hive hadoop
+hadoop hadoop hive
+hive hadoop hello hello
+sqoop hive hadoop hello hello
+hello world hello hadoop
+hadoop hello world hive
+hive hive hadoop
